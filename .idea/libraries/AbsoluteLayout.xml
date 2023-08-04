@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="AbsoluteLayout">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/face/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/face/lib/slf4j-log4j12-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/face/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/face/lib/javacpp-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/face/lib/slf4j-api-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/face/lib/opencv-341.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/face/lib/javase-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/face/lib/opencv-3.4.1-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/face/lib/bridj-0.6.2-windows-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/face/lib/core-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/face/lib/webcam-capture-0.3.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/face/lib/opencv-341.jar!/" />
+    </SOURCES>
+  </library>
+</component>
